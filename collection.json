@@ -1,0 +1,2707 @@
+[
+    {
+        "collection_high_style": {
+            "name": "High-Style",
+            "images": [
+                "High-Style_коллекция.jpg",
+                "Tb_High-Style_01.jpg",
+                "Киевница_High-Style_К-20_02.jpg",
+                "светильник_High-Style_02.jpg",
+                "диван_High-Style.jpg",
+                "кресло_High-Style.jpg",
+                "стул_High-Style.jpg",
+                "зеркало_High-Style.jpg",
+                "рама_High-Style.jpg"
+            ],
+            "sizes": [
+                "8",
+                "9",
+                "10",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "мдф",
+                    "plita_type": "Камень Super Stone, 45 мм",
+                    "ves": "1320",
+                    "leg": "3",
+                    "price": 87880
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "мдф",
+                    "plita_type": "Камень PBS, 45 мм",
+                    "ves": "1320",
+                    "leg": "3",
+                    "price": 91130
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "мдф",
+                    "plita_type": "Сланец Orero, 30 мм",
+                    "ves": "1110",
+                    "leg": "3",
+                    "price": 99840
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "мдф",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1350",
+                    "leg": "3",
+                    "price": 101270
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Камень Super Stone, 45 мм",
+                    "ves": "1320",
+                    "leg": "3",
+                    "price": 111540
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Камень PBS, 45 мм",
+                    "ves": "1320",
+                    "leg": "3",
+                    "price": 115960
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 30 мм",
+                    "ves": "1110",
+                    "leg": "3",
+                    "price": 124410
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1350",
+                    "leg": "3",
+                    "price": 125840
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "мдф",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "860",
+                    "leg": "3",
+                    "price": 73320
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "мдф",
+                    "plita_type": "Камень PBS, 40 мм",
+                    "ves": "860",
+                    "leg": "3",
+                    "price": 76180
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "мдф",
+                    "plita_type": "Сланец Orero, 25 мм",
+                    "ves": "720",
+                    "leg": "3",
+                    "price": 80340
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "мдф",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "890",
+                    "leg": "3",
+                    "price": 82420
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Super Stone, 40 мм",
+                    "ves": "860",
+                    "leg": "3",
+                    "price": 93340
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Камень PBS, 40 мм",
+                    "ves": "860",
+                    "leg": "3",
+                    "price": 96200
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 25 мм",
+                    "ves": "720",
+                    "leg": "3",
+                    "price": 100230
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "890",
+                    "leg": "3",
+                    "price": 102310
+                },
+                [],
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 9,
+                    "material_stol": "мдф",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "680",
+                    "leg": "2",
+                    "price": 68510
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 9,
+                    "material_stol": "мдф",
+                    "plita_type": "Сланец Orero, 25 мм",
+                    "ves": "580",
+                    "leg": "2",
+                    "price": 71890
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 9,
+                    "material_stol": "мдф",
+                    "plita_type": "Камень «PBS» 40 мм",
+                    "ves": "680",
+                    "leg": "2",
+                    "price": 70720
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 9,
+                    "material_stol": "мдф",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "680",
+                    "leg": "2",
+                    "price": 79170
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 9,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "680",
+                    "leg": "2",
+                    "price": 76310
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 9,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Камень «PBS» 40мм",
+                    "ves": "680",
+                    "leg": "2",
+                    "price": 78390
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 9,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 25 мм",
+                    "ves": "580",
+                    "leg": "2",
+                    "price": 79560
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 9,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "680",
+                    "leg": "2",
+                    "price": 86580
+                },
+                [],
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 8,
+                    "material_stol": "мдф",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "580",
+                    "leg": "2",
+                    "price": 63700
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 8,
+                    "material_stol": "мдф",
+                    "plita_type": "Камень «PBS» 40мм",
+                    "ves": "580",
+                    "leg": "2",
+                    "price": 65390
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 8,
+                    "material_stol": "мдф",
+                    "plita_type": "Сланец Orero, 25 мм",
+                    "ves": "480",
+                    "leg": "2",
+                    "price": 66820
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 8,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "580",
+                    "leg": "2",
+                    "price": 72150
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 8,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Камень «PBS» 40мм",
+                    "ves": "580",
+                    "leg": "2",
+                    "price": 73840
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 8,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 25 мм",
+                    "ves": "480",
+                    "leg": "2",
+                    "price": 75270
+                }
+            ],
+            "parametres": [
+                [
+                    "Сукно:",
+                    "Manchester 70 green competition"
+                ],
+                "br",
+                [
+                    "Амортизаторы:",
+                    "Start Super Pro (рекомендованы ФБСР)"
+                ],
+                "br",
+                [
+                    "Лузы:",
+                    "алюминевая скоба,кожаная сетка"
+                ],
+                "br",
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Современный бильярд для современного интерьера",
+                "\n\t Бильярдная коллекция High-Style - современный подход к классическому бильярду. Центральным объектом коллекции является бильярдный стол профессиональной линейки. Стилизованные киевница и светильник дополняют композицию, подчеркивая стилистику коллекции. \n",
+                "\n\t Отличительной чертой современной бильярдной коллекции High-Style является сочетание передовых бильярдных технологий, четких линий и красоты тщательной отделки ценных древесных пород. \n",
+                "\n\t Стол отвечает высоким требованиям не только по техническим и игровым характеристикам, но и по уровню дизайнерского решения. Цельный и лаконичный образ строится на фигурных ногах, декорированных ажурной решеткой.\n",
+                "\n\t Широкая палитра цветового покрытия коллекции - еще одно преимущество коллекции High-Style. Легко скомбинировать вариант выкраски стола с широким цветовым спектром сукна, создавая тот образ, который гармонично впишется в интерьер именно Вашей бильярдной.\n",
+                "\n \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "kollecia_high_style_lux": {
+            "name": "High-Style Lux",
+            "images": [
+                "High-Style-Lux_коллекция.jpg",
+                "Tb_High-Style-Lux_01-Iwan-Simonis-760-Grey.jpg",
+                "CueRack_High-Style-Lux_02.jpg",
+                "светильник_High-Style-Lux_02 (1).jpg",
+                "диван_High-Style-Lux.jpg",
+                "кресло_High-Style-Lux.jpg",
+                "стул_High-Style-Lux.jpg",
+                "зеркало_High-Style-Lux.jpg",
+                "рама_High-Style-Lux.jpg"
+            ],
+            "sizes": [
+                "8",
+                "9",
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Камень Super Stone, 45 мм",
+                    "ves": "1320",
+                    "leg": "3",
+                    "price": 126880
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 30 мм",
+                    "ves": "1110",
+                    "leg": "3",
+                    "price": 130
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1350",
+                    "leg": "3",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 30 мм",
+                    "ves": "980",
+                    "leg": "3",
+                    "price": 130
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1120",
+                    "leg": "3",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Камень Super Stone, 45 мм",
+                    "ves": "860",
+                    "leg": "3",
+                    "price": 105690
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "890",
+                    "leg": "3",
+                    "price": 116090
+                },
+                [],
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 9,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "680",
+                    "leg": "2",
+                    "price": 88140
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 9,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Камень «PBS» 40мм",
+                    "ves": "680",
+                    "leg": "2",
+                    "price": 90350
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 9,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 25 мм",
+                    "ves": "580",
+                    "leg": "2",
+                    "price": 91390
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 9,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "680",
+                    "leg": "2",
+                    "price": 98540
+                },
+                [],
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 8,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "580",
+                    "leg": "2",
+                    "price": 83460
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 8,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Камень «PBS» 40мм",
+                    "ves": "580",
+                    "leg": "2",
+                    "price": 85280
+                },
+                {
+                    "type": "Пирамида / Пул",
+                    "size": 8,
+                    "material_stol": "массив / шпон ясеня / мдф",
+                    "plita_type": "Сланец Orero, 25 мм",
+                    "ves": "480",
+                    "leg": "2",
+                    "price": 86580
+                }
+            ],
+            "parametres": [
+                [
+                    "Сукно:",
+                    "Manchester 70 green competition"
+                ],
+                "br",
+                [
+                    "Амортизаторы:",
+                    "Start Super Pro (рекомендованы ФБСР)"
+                ],
+                "br",
+                [
+                    "Лузы:",
+                    "алюминевая скоба,кожаная сетка"
+                ],
+                "br",
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Современный бильярдный ансамбль для стильного интерьера",
+                "\n\t Бильярдная коллекция High-Style Lux - современный ансамбль высокого стиля и характеристик премиального уровня. Основой коллекции является бильярдный стол профессиональной линейки. Стилизованные киевница, светильник, диван, кресло и стул дополняют композицию, подчеркивая стилистику коллекции. \n",
+                "\n\t Отличительной чертой современной бильярдной коллекции High-Style Lux является сочетание передовых бильярдных технологий, четких линий и красоты тщательной отделки ценных древесных пород. \n",
+                "\n\t Широкая палитра цветового покрытия коллекции - еще одно преимущество коллекции High-Style Lux. Легко скомбинировать вариант выкраски стола с широким цветовым спектром сукна, создавая тот образ, который гармонично впишется в интерьер именно Вашей бильярдной.\n",
+                "\n \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "collection_hightech": {
+            "name": "High-tech",
+            "images": [
+                "High-Tech_коллекция (2).jpg",
+                "Tb_High-Tech_01.jpg",
+                "киевница_High-Tech_K-18_02.jpg",
+                "светильник_High-Tech_Evolution_02 (1).jpg",
+                "светильник_High-Tech_Evolution_01 (1).jpg",
+                "диван_High-Tech (1).jpg",
+                "кресло_High-Tech (1).jpg",
+                "стул_High-Tech (1).jpg",
+                "1000_Mirror-High-Tech.jpg",
+                "1000_Frame-High-Tech.jpg",
+                "Interior-High-Tech.jpg"
+            ],
+            "sizes": [
+                "10",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Пленка или шпон ясеня/дуба",
+                    "plita_type": "Камень Super Stone, 45 мм",
+                    "ves": "1320",
+                    "leg": "4",
+                    "price": 68640
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Пленка или шпон ясеня/дуба",
+                    "plita_type": "Камень PBS, 45 мм",
+                    "ves": "1320",
+                    "leg": "4",
+                    "price": 73190
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Пленка или шпон ясеня/дуба",
+                    "plita_type": "Сланец Orero, 30 мм",
+                    "ves": "1110",
+                    "leg": "4",
+                    "price": 81900
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Пленка или шпон ясеня/дуба",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1350",
+                    "leg": "4",
+                    "price": 83330
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Пленка или шпон ясеня/дуба",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "860",
+                    "leg": "4",
+                    "price": 58500
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Пленка или шпон ясеня/дуба",
+                    "plita_type": "Камень PBS, 40 мм",
+                    "ves": "860",
+                    "leg": "4",
+                    "price": 61360
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Пленка или шпон ясеня/дуба",
+                    "plita_type": "Сланец Orero, 25 мм",
+                    "ves": "720",
+                    "leg": "4",
+                    "price": 65520
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Пленка или шпон ясеня/дуба",
+                    "plita_type": "Cланец Orero, 40 мм",
+                    "ves": "890",
+                    "leg": "4",
+                    "price": 67600
+                }
+            ],
+            "parametres": [
+                [
+                    "Цвет выкраски:",
+                    ""
+                ],
+                "br",
+                "br",
+                "br",
+                [
+                    "Цвет сукна:",
+                    ""
+                ],
+                "br",
+                "br",
+                "br",
+                [
+                    "Сукно:",
+                    "Manchester 70 green competition"
+                ],
+                "br",
+                [
+                    "Амортизаторы:",
+                    "Start Super Pro (рекомендованы ФБСР)"
+                ],
+                "br",
+                [
+                    "Лузы:",
+                    "кожаная сетка"
+                ],
+                "br",
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Современный бильярд для современного интерьера",
+                "\n\t Бильярдная коллекция High-tech - уникальное предложение для любителей бильярда. Центральным объектом коллекции является профессиональный бильярдный стол, стилизованные киевница и светильник сосредотачивают в себе все основные черты данного дизайнерского направления. Коллекция выполнена в четких линиях, сдержанной цветовой гамме, выгодно подчеркивающей простой и выразительный силуэт.\n",
+                "\n\t Бильярдный стол High-tech по праву можно назвать результатом новейших разработок в бильярдной индустрии. Независимый несущий металлический каркас в основе стола, высококачественная бортовая резина, природный сланец в основе игрового поля, бельгийское сукно обеспечивают прекрасные игровые характеристики. Широкая палитра цветового покрытия коллекции - еще одно преимущество High-tech. Легко скомбинировать вариант выкраски стола с видом накладных элементов и цветом сукна, создавая тот образ, который гармонично впишется в интерьер именно Вашей бильярдной.\n",
+                "\n \n"
+            ],
+            "collection": [
+                {
+                    "data-sukno": "manchester-blue.jpg",
+                    "table": "shelk_stal_s.jpg"
+                },
+                {
+                    "data-sukno": "manchester-green.jpg",
+                    "table": "09Зебрано + черное матовое полимерное покрытие накладных элементов.jpg"
+                },
+                {
+                    "data-sukno": "manchester-red.jpg",
+                    "table": "tik_tree_s.jpg"
+                },
+                {
+                    "data-sukno": "manchester-green.jpg",
+                    "table": "textura_black_s (1).jpg"
+                },
+                {
+                    "data-sukno": "manchester-green.jpg",
+                    "table": "zebrano_s.jpg"
+                },
+                {
+                    "data-sukno": "manchester-green.jpg",
+                    "table": "venge_mali_natur_s.jpg"
+                },
+                {
+                    "data-sukno": "manchester-green.jpg",
+                    "table": "shelk_stal_s.jpg"
+                },
+                {
+                    "data-sukno": "manchester-blue.jpg",
+                    "table": "zebrano_s.jpg"
+                },
+                {
+                    "data-sukno": "manchester-blue.jpg",
+                    "table": "textura_black_s (1).jpg"
+                },
+                {
+                    "data-sukno": "manchester-blue.jpg",
+                    "table": "venge_mali_natur_s.jpg"
+                },
+                {
+                    "data-sukno": "manchester-red.jpg",
+                    "table": "shelk_stal_s.jpg"
+                },
+                {
+                    "data-sukno": "manchester-red.jpg",
+                    "table": "09Зебрано + черное матовое полимерное покрытие накладных элементов.jpg"
+                },
+                {
+                    "data-sukno": "manchester-red.jpg",
+                    "table": "zebrano_s.jpg"
+                },
+                {
+                    "data-sukno": "manchester-red.jpg",
+                    "table": "textura_black_s (1).jpg"
+                },
+                {
+                    "data-sukno": "manchester-red.jpg",
+                    "table": "07Венге мали натур + черное матовое полимерное покрытие накладных элементов.jpg"
+                },
+                {
+                    "data-sukno": "manchester-red.jpg",
+                    "table": "venge_mali_natur_s.jpg"
+                }
+            ],
+            "sukno-color": [
+                {
+                    "name": " Manchester Royal Blue",
+                    "suknoImage": "manchester-blue.jpg"
+                },
+                {
+                    "name": " Manchester Electric Blue",
+                    "suknoImage": "manchester-electricblue.jpg"
+                },
+                {
+                    "name": " Manchester-Lux",
+                    "suknoImage": "manchester-green.jpg"
+                },
+                {
+                    "name": " Manchester Red",
+                    "suknoImage": "manchester-red.jpg"
+                }
+            ],
+            "vkraski-color": [
+                {
+                    "name": " Шелк сталь + черное покрытие накладных элементов",
+                    "vkraskiImage": "02Шелк сталь + черное матовое полимерное покрытие накладных элементов.jpg"
+                },
+                {
+                    "name": " Шелк сталь + стальное покрытие накладных элементов",
+                    "vkraskiImage": "shelk_stal_s.jpg"
+                },
+                {
+                    "name": " Тиковое дерево + черное матовое полимерное покрытие накладных элементов",
+                    "vkraskiImage": "03Тиковое дерево + черное матовое полимерное покрытие накладных элементов.jpg"
+                },
+                {
+                    "name": " Тиковое дерево + стальное покрытие накладных элементов",
+                    "vkraskiImage": "tik_tree_s.jpg"
+                },
+                {
+                    "name": " Текстура черная + черное матовое полимерное покрытие накладных элементов",
+                    "vkraskiImage": "05Текстура черная + черное матовое полимерное покрытие накладных элементов.jpg"
+                },
+                {
+                    "name": " Текстура черная + стальное покрытие накладных элементов",
+                    "vkraskiImage": "textura_black_s (1).jpg"
+                },
+                {
+                    "name": " Венге + черное матовое полимерное покрытие накладных элементов",
+                    "vkraskiImage": "07Венге мали натур + черное матовое полимерное покрытие накладных элементов.jpg"
+                },
+                {
+                    "name": " Венге + стальное покрытие накладных элементов",
+                    "vkraskiImage": "venge_mali_natur_s.jpg"
+                },
+                {
+                    "name": " Зебрано + черное матовое полимерное покрытие накладных элементов",
+                    "vkraskiImage": "09Зебрано + черное матовое полимерное покрытие накладных элементов.jpg"
+                },
+                {
+                    "name": " Зебрано + стальное покрытие накладных элементов",
+                    "vkraskiImage": "zebrano_s.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "kollektsiya_ampir": {
+            "name": "«Ампир»",
+            "images": [
+                "2018_Ampir.jpg",
+                "Tb_Ampir.jpg",
+                "01_Lamp-Ampir.jpg",
+                "CueRack-Ampir-kr1.jpg",
+                "Table-Ampir.jpg",
+                "Диван_Ампир_01.jpg",
+                "Стул_Ампир.jpg",
+                "Кресло_Ампир.jpg",
+                "Ампир_зеркало.jpg",
+                "Император_new.png",
+                "Interior-Ampir.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня/дуб",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1500",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив ясеня/дуб",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1350",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив ясеня/дуб",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1150",
+                    "leg": "6",
+                    "price": 130
+                }
+            ],
+            "parametres": [
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    "Лузы:",
+                    "отделаны кожей ручной работы"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Высшее качество имперской роскоши, помпезности и торжественности в едином стиле ампир.\n ",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "\n \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "kollektsiya_baron_lyuks": {
+            "name": "Барон-Люкс",
+            "images": [
+                "2018_Baron_lux.jpg",
+                "2000Стол_Барон-Люкс.jpg",
+                "5_ARISTOKRAT_00.jpg",
+                "Киевница-К-7_02.jpg",
+                "табурет_PresidentIII.jpg",
+                "1000_Mirror-Baron-Lux.jpg",
+                "1000_Frame-Baron-Lux.jpg",
+                "Коллекция Барон-Люкс new.png",
+                "Interior-Baron-Lux.jpg"
+            ],
+            "sizes": [
+                "8",
+                "9",
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Ясень/сосна,шпон",
+                    "plita_type": "Камень Super Stone, 45 мм",
+                    "ves": "1170",
+                    "leg": "8",
+                    "price": 54600
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Ясень/сосна,шпон",
+                    "plita_type": "Сланец Orero, 30 мм",
+                    "ves": "1100",
+                    "leg": "8",
+                    "price": 69420
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Ясень/сосна,шпон",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1230",
+                    "leg": "8",
+                    "price": 71110
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Ясень/сосна,шпон",
+                    "plita_type": "Сланец Orero, 30 мм",
+                    "ves": "850",
+                    "leg": "8",
+                    "price": 64610
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Ясень/сосна,шпон",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "770",
+                    "leg": "6",
+                    "price": 42250
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Ясень/сосна,шпон",
+                    "plita_type": "Сланец Orero, 25 мм",
+                    "ves": "750",
+                    "leg": "6",
+                    "price": 50180
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Ясень/сосна,шпон",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "770",
+                    "leg": "6",
+                    "price": 52650
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 9,
+                    "material_stol": "Ясень/сосна,шпон",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "650",
+                    "leg": "6",
+                    "price": 38740
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 9,
+                    "material_stol": "Ясень/сосна,шпон",
+                    "plita_type": "Сланец Orero, 25 мм",
+                    "ves": "470",
+                    "leg": "6",
+                    "price": 42510
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 8,
+                    "material_stol": "Ясень/сосна,шпон",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "540",
+                    "leg": "6",
+                    "price": 35100
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 8,
+                    "material_stol": "Ясень/сосна,шпон",
+                    "plita_type": "Сланец Orero, 25 мм",
+                    "ves": "400",
+                    "leg": "6",
+                    "price": 38740
+                }
+            ],
+            "parametres": [
+                [
+                    "Дополнительная отделка:",
+                    "Декоративные резные элементы"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Индивидуальность и лаконичный стиль для поклонников классики.",
+                ""
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "collection_veneciya": {
+            "name": "Венеция",
+            "images": [
+                "2018_Venice.jpg",
+                "2000_Tb-Venice-c3.jpg",
+                "cabinet-Venice_02.jpg",
+                "Venice-kievnica.jpg",
+                "01_Lamp-Venice.jpg",
+                "Table-Venice-c3_1200.jpg",
+                "Venice-zerkalo.jpg",
+                "Венеция_стул.jpg",
+                "Венеция_кресла.jpg",
+                "Венеция_диван_01.jpg",
+                "Venice-polka.jpg",
+                "Venice-kartina.jpg",
+                "Interior-Venice.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив клёна или ясеня",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1470",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив клёна или ясеня",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1330",
+                    "leg": "8",
+                    "price": 127790
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив клёна или ясеня",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1120",
+                    "leg": "6",
+                    "price": 103480
+                }
+            ],
+            "parametres": [
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    "Дополнительно:",
+                    "внутренняя конструкция столов из массива клёна или ясеня допускает использование сосны"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Единство безупречных игровых свойств и изысканной элегантности \n ",
+                "\n\tНеповторимый дух Венеции воплотила в себе бильярдная коллекция с одноименным названием. Дизайн коллекции отражает гармоничную архитектуру самого города с его византийскими арками и колоннами, готическими сводами, барельефами и богатыми карнизами эпохи Возрождения.\n",
+                "\n\tЖемчужиной коллекции является бильярдный стол «Венеция» - резной лафет ручной работы, кожаные лузы ручного тиснения, итальянский сланец в основе игрового поля, бельгийское сукно. Металлическая несущая рама обеспечит совершенную жесткость конструкции и игровые качества профессионального бильярда. Стабильность усиливают винты ног увеличенного диаметра и литые латунные опорные чашки. Абсолютную горизонтальность поверхности обеспечивает юстировочная система с 50 регулировочными точками. Для создания бильярдной коллекции «Венеция» используются только натуральные материалы.\n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "kolekciya_grossmeyster": {
+            "name": "Гроссмейстер",
+            "images": [
+                "2023_Grandmaster.jpg",
+                "2022_Tb_Grandmaster_01_01.jpg",
+                "2022_Tb_Grandmaster_01_02.jpg",
+                "2022_Tb_Grandmaster_02_01.jpg",
+                "2022_Tb_Grandmaster_03_01.jpg",
+                "2022_Tb_Grandmaster_06.jpg",
+                "CueRack_Grandmaster_01.jpg",
+                "CueRack_Grandmaster_03.jpg",
+                "CueRack_Grandmaster_05.jpg",
+                "Evolution_Grandmaster_01.jpg",
+                "Evolution_Grandmaster_02.jpg",
+                "2023_Grandmaster_интерьер.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив дуба / массив граба",
+                    "plita_type": "Сланец Orero, 30 мм",
+                    "ves": "1550",
+                    "leg": "8",
+                    "price": 130
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив дуба / массив граба",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1750",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив дуба / массив граба",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1500",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив дуба / массив граба",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1100",
+                    "leg": "6",
+                    "price": 130
+                }
+            ],
+            "parametres": [
+                [
+                    "Цвет:",
+                    "итальянский орех"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Бильярдная фигура для великих побед! ",
+                "\n\t «Гроссмейстер» — эксклюзивная бильярдная коллекция Фабрики «Старт», созданная для истинных ценителей бильярдного искусства.\n\t Центральной фигурой коллекции, безусловно, является бильярдный стол. Этот стол разработан и изготовлен персонально для самого титулованного шахматиста и величайшего чемпиона мира – Анатолия Евгеньевича Карпова – символа побед и достижений. \n",
+                "\n\t Художественная ценность бильярдного стола заключается в четком ритме резных шахматных фигур, строгих пропорциях, комбинации фактур разных пород дерева и выразительной патинированной выкраске. В построении стола используется технология безупречного крепления борта к плите - Mount Perfect, которая гарантирует повышенную жесткость конструкции. Лузы отделаны геральдическим тиснением, сетки ручного плетения. \n",
+                "\n\t Бильярдная коллекция «Гроссмейстер»  вобрала в себя не только эксклюзивность комплектующих и натуральные природные материалы, но и уникальные технологии изготовления. Коллекция включает в себя бильярдный стол, киевницу и светильник.\n",
+                "\n\t Бильярдная коллекция «Гроссмейстер» посвящена победам, в ней мощь сочетается с красотой и изяществом. Коллекция призвана подчеркнуть стилистику интерьера гостиной комнаты и статус ее обладателя. \n",
+                "\n \n",
+                "\n \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "kollektsiya_dragon": {
+            "name": "Дракон",
+            "images": [
+                "Dragon.jpg",
+                "2000_Tb_Dragon_red.jpg",
+                "800_CueRack-Dragon.jpg",
+                "2000_Lamp_Dragon.jpg",
+                "Зеркало_Dragon.jpg",
+                "Столик_Dragon.jpg",
+                "Дракон_стул.jpg",
+                "Дракон_кресло.jpg",
+                "Interior-Dragon.jpg",
+                "1400_02_dragon.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив клёна",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1500",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив клёна",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1350",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив клёна",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1150",
+                    "leg": "6",
+                    "price": 130
+                }
+            ],
+            "parametres": [
+                [
+                    "Отделка:",
+                    "Цветная смола, авторское патинирование, золотая поталь"
+                ],
+                "br",
+                [
+                    "Дополнительные характеристики:",
+                    "Интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    ":",
+                    "внутренняя конструкция столов из массива клена допускает использование сосны"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Особая пышность и философский смысл \n китайского императорского стиля",
+                "\n\t При разработке этой коллекции Фабрика ушла от общепринятых в индустрии бильярда стандартов, разработав новый стиль и подход в производстве. Только большой опыт отработанных и проверенных временем собственных технологий позволил пополнить ассортимент «Старт» этой эксклюзивной коллекцией, авторского исполнения, где каждая деталь уникальна.  \n\t Фигуры драконов украшают лафет стола и киевницу. Отливка фигур драконов сделана из цветной смолы по авторской лепнине скульпторов, работающих в китайском стиле.      \n\t Вся отделка коллекции выполнена с учетом традиций старинных технологий. Лаковая многослойность применена для достижения глубины цвета. Брашированное дерево (дерево с душой)  - для дополнительного рельефа и графичности волокна, характерного для старой древесины.  \n\t Китайский императорский стиль, отличающийся особой пышностью, философским смыслом и многовековой историей, стал главным ориентиром при создании образа коллекции «Дракон».   \n \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "kollektsiya_drakon_granzh": {
+            "name": "Дракон Гранж",
+            "images": [
+                "2018_Dragon-Grunj.jpg",
+                "01_Dragon_Grunge.jpg",
+                "01_2017_CueRack_Dragon_Grunge.jpg",
+                "Lamp_Dragon_Grunge_01.jpg",
+                "Дракон-Гранж_диван_01.jpg",
+                "Дракон-Гранж_кресло.jpg",
+                "Mirror-Dragon-Grunj_01.jpg",
+                "Table-Dragon_Grunge_01.jpg",
+                "Interior-Dragon-Grunj.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Граб",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1500",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Граб",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1350",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Граб",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1150",
+                    "leg": "6",
+                    "price": 130
+                }
+            ],
+            "parametres": [
+                [
+                    "Отделка:",
+                    "Золотая поталь, многослойная колеровка, имитация чеканки"
+                ],
+                "br",
+                [
+                    "Дополнительные характеристики:",
+                    "Интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Пример высочайшего мастерства, \n тонкой стилистики и роскоши\n ",
+                "\n\t Бильярдная коллекция «Дракон Гранж», обладает своей яркой индивидуальностью, пронизанной философским смыслом.\n",
+                "\n\t Фактура и цвет коллекции «с отголосками металла» позволяет придать поверхности уникальный вид, рельеф напоминает чеканку. Выкраска коллекции многогранна, выполняется вручную, в авторской технике с помощью нанесения золотой потали и многослойной колеровки, с сохранением тонкой стилистики.  \n",
+                "\n\t Фигуры драконов украшают лафет стола. Отливка фигур сделана из цветной смолы по авторской лепнине скульпторов, работающих в китайском стиле. Стол и киевница декорированы панно ручной работы в традиционной технике и с традиционным для китайской миниатюры сюжетом. \n",
+                "\n\t Конструкция стола «Дракон Гранж» вобрала в себя все лучшие технологические разработки Фабрики, включая металлическую несущую раму в основание стола.\n",
+                "\n\t Бильярдная коллекция «Дракон Гранж»– пример высочайшего мастерства в технологии изготовления, тонкой стилистики, богатой гаммы изысканного цвета. \n",
+                "\n \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "collection_imperator": {
+            "name": "Император",
+            "images": [
+                "2017_Imperator.jpg",
+                "Tb_Imperator_2000.jpg",
+                "01_Lamp-Imperator.jpg",
+                "CueRack_Imperator-k12.jpg",
+                "ec573f3326d6b4e647b16f3c96bf239e.jpg",
+                "247676983ed6eeaebeb28bce755f2d18.jpg",
+                "01_Император_диван.jpg",
+                "Кресло_Император.jpg",
+                "Стул_Император.jpg",
+                "Table-Imperator_1022.jpg",
+                "ffeb788e111f806ce86413d69f9e2e2e.jpg",
+                "Mirror-Imperator.jpg",
+                "kartina_imperator.png",
+                "Коллекция Император new.png",
+                "Interior-Imperator.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив клёна или ясеня",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1500",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив клёна или ясеня",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1350",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив клёна или ясеня",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1150",
+                    "leg": "6",
+                    "price": 130
+                }
+            ],
+            "parametres": [
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Уникальное сочетание роскошного внешнего вида и игровых характеристик профессионального бильярда",
+                "\n\t Коллекция «Император» включает в себя профессиональный бильярдный стол с резным лафетом, светильник, киевницу, кабинет, диван, стул, кресло, столик, зеркало, раму под картину, декоративную полку, бра, торшер. Все составляющие коллекции декорированы в роскошном стиле барокко, призванном подчеркнуть богатство интерьера.\n",
+                "\n\t Коллекция отражает весь колорит императорской эпохи во всей ее красоте и пышности. Резные элементы отделки выполнены вручную и придают коллекции поистине императорское величие.\n",
+                "\n\t Центральный элемент коллекции - бильярдный стол «Император» - украсит любые апартаменты. Резные узоры на лафете из натурального дерева, качественный сланец игрового поля, лучшие сукно и резина делают «Император» настоящим произведением искусства с художественной и спортивной точек зрения. \n \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "collection_imperator_gold": {
+            "name": "Император Голд",
+            "images": [
+                "2018_Imperator_Gold.jpg",
+                "f86c82cd33a5f7ca3dec17c98ba35f45.jpg",
+                "e46eca4e29618225932dec920ae7224b.jpg",
+                "CueRack_Imperator-Gilt-k12.jpg",
+                "Cabinet-Imperator-Gilt-kb-1.jpg",
+                "01_Lamp-Imperator-gilt.jpg",
+                "eed1c26f4cbd956aeaa26e5a93e97e20.jpg",
+                "Император_Голд_диван_01.jpg",
+                "Кресло_Император_голд.jpg",
+                "Император_Голд_стул.jpg",
+                "4c0ebb169c1fdf1e358cd2d008e15bc6.jpg",
+                "ffe6181e337c453da97b881db3937530.jpg",
+                "император_голд.jpg",
+                "Interior-Imperator-Gold.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив клёна",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1500",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив клёна",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1350",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив клёна",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1150",
+                    "leg": "6",
+                    "price": 130
+                }
+            ],
+            "parametres": [
+                [
+                    "Отделка:",
+                    "золотой пастой, порошком и сусальным золотом 23 карата"
+                ],
+                "br",
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Роскошь с элементами сусального золота и профессиональными игровыми характеристиками",
+                "\n\t Бильярдная коллекция «Император Голд» предназначена для почитателей ярких красок и форм.\n",
+                "\n\t Бильярдный стол «Император Голд» поистине уникален. Натуральный массив ясеня или клена, резные элементы, неповторимый дизайн лафета и ног. Шикарная отделка всей поверхности стола и аксессуаров золотой пастой и сусальным золотом в 23 карата, а также специальная технология искусственного старения древесины делают коллекцию «Император Голд» настоящим произведением искусства. Не стоит забывать и о том, что это настоящий профессиональный бильярд: в основе - несущая металлическая рама, бельгийское сукно и немецкая резина высшей пробы. Все это обеспечивает лучшие игровые качества. \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "kollektsiya_imperator_lyuks": {
+            "name": "Император-Люкс",
+            "images": [
+                "2017_Imperator_lux.jpg",
+                "2000_Tb_Imperator_Lux.jpg",
+                "2000_CueRack_Imperator_Lux.jpg",
+                "CueRack_Imperator-lux-k12.jpg",
+                "01_Lamp-Imperator_Lux.jpg",
+                "2000_cabinet-Imperator-Lux.jpg",
+                "01_Император_Голд_диван.jpg",
+                "Кресло_Император_люкс.jpg",
+                "Стул_Император_люкс.jpg",
+                "Table-Imperator-Lux_1022.jpg",
+                "1000_Mirror-Imperator_lux.jpg",
+                "1000_ShelIf-Imperator-Lux.jpg",
+                "1000_Frame-Imperator-Lux.jpg",
+                "Коллекция Император-Люкс new.png",
+                "Interior-Imperator-Lux.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив клёна или ясеня",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1500",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив клёна или ясеня",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1350",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив клёна или ясеня",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1150",
+                    "leg": "6",
+                    "price": 130
+                }
+            ],
+            "parametres": [
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Гармония роскоши, стиля и безупречных игровых свойств.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "leo": {
+            "name": "Лео",
+            "images": [
+                "2017_Kоллекция-Лео.jpg",
+                "Бильярдный стол Лео.jpg",
+                "Киевница Лео.jpg",
+                "Киевница_K_2_Лео.jpg",
+                "Лео_лампа_01.jpg",
+                "02_Лео_модуль.jpg",
+                "Лео_стул.jpg",
+                "01_Лео_диван.jpg",
+                "01_Лео_кресло.jpg",
+                "Зеркало Лео.jpg",
+                "Тумба_Лео_01.jpg",
+                "Столик_Лео.jpg",
+                "Столик_барный_Лео_01.jpg",
+                "Пуф_Лео.jpg",
+                "Коллекция Лео new.png",
+                "Interior-Leo.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив клёна",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1500",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив клёна",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1350",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив клёна",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1150",
+                    "leg": "6",
+                    "price": 130
+                }
+            ],
+            "parametres": [
+                [
+                    "Выкраска:",
+                    "Авторское патинирование серебряной поталью"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Царская роскошь и львиный характер выгодно подчеркнут статус своего владельца ",
+                "\n\t «Лео» - это престижная коллекция высочайшего уровня, которая  адресована поклонникам, знатокам и ценителям искусства бильярда.\n",
+                "\n\t Дизайнерам Фабрики «Старт» удалось создать образ «царя зверей», «царя бильярда». Выполненная вручную резьба рельефа в виде львов придает коллекции царское величие. «Лео» соединяет в себе богатство стиля, роскошь резной отделки и «львиный» характер.\n",
+                "\n\t Техника декорирования коллекции: серебряная поталь и авторское патинирование. Именно такая выкраска позволяет подчеркнуть каждую деталь и придает натуральному дереву особую выразительность и эффект старины.\n",
+                "\n\t Бильярдная коллекция «Лео» изготовлена из массива клёна и включает в себя все необходимые элементы: бильярдный стол, киевница, лампа, зеркало, столик. Ключевой фигурой является бильярдный стол «Лео». Обладая высокими игровыми характеристиками, он демонстрирует неповторимую индивидуальность. Коллекция гармонично и торжественно впишется в интерьер премиум-класса и выгодно подчеркнет достоинство и статус своего владельца.\n \n\t Коллекция «Лео» изготовлена из массива клена и включает в себя: бильярдный стол, киевницу, светодиодный светильник, зеркало, столик,  полочку для шаров, раму для картины, торшер, диван, кресло, модуль для ТВ, настольный светильник, бра..\n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "kollektsiya_leo_ii": {
+            "name": "Лео II",
+            "images": [
+                "2017_Kоллекция-Лео-II.jpg",
+                "2000_Бильярдный стол ЛеоII.jpg",
+                "02_Lamp-Leo-II.jpg",
+                "716_Киевница Лео II.jpg",
+                "800_Киевница_2_Лео II.jpg",
+                "02_Лео_модуль.jpg",
+                "Лео_стул.jpg",
+                "02_Лео_диван.jpg",
+                "02_Лео_кресло.jpg",
+                "2000_столик_Leo-II.jpg",
+                "Столик_барный_ЛеоII_01.jpg",
+                "1000_зеркало_Leo II.jpg",
+                "Пуф_ЛеоII.jpg",
+                "Коллекция Лео II new.png",
+                "Interior-Leo II.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив клёна",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1500",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив клёна",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1350",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив клёна",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1150",
+                    "leg": "6",
+                    "price": 130
+                }
+            ],
+            "parametres": [
+                [
+                    "Выкраска:",
+                    "Авторское патинирование, червленая серебряная поталь"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Восхитительное сочетание высшего качества в едином львином образе ",
+                "\n\t «Лео II» - это престижная коллекция высочайшего уровня, которая  адресована поклонникам, знатокам и ценителям искусства бильярда.\n",
+                "\n\t От предшественника «Лео II» отличает отделка. Это более фактурная декорировка, с ярко выраженным рыцарским характером. Причудливая сетка «шрамов» сплетается в единый благородный декор, наполняя коллекцию духом средневекового историзма, придавая поверхности эффект металла. Вся выкраска выполняется вручную. Червленое серебро потали, авторское патинирование, россыпь рельефа и резных элементов представляют восхитительное сочетание. Выполненная в ручную резьба рельефа в виде львов - основа ритма «Лео II» .\n",
+                "\n\t Стол «Лео II» относится к эксклюзивной серии и обладает самыми высокими игровыми характеристиками.\n",
+                "\n\t Бильярдная коллекция «Лео II» изготовлена из массива клёна и включает в себя: бильярдный стол, киевницу, лампу, зеркало, столик.  \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "collection_liverpool": {
+            "name": "Ливерпуль-Люкс",
+            "images": [
+                "2018_Liverpool_lux.jpg",
+                "Tb_Liverpool-Lux.jpg",
+                "CueRack-Liverpool-Lux.jpg",
+                "01_Lamp-Liverpool-lux.jpg",
+                "Диван_Ливерпуль_люкс_01.jpg",
+                "Кресло_Ливерпуль_люкс.jpg",
+                "Стул_Ливерпуль_люкс.jpg",
+                "3a0e4b0cf8d4d23a8d464f6f75df01cf.jpg",
+                "1200_02_Ливерпуль_люкс_тумба.jpg",
+                "06_Ливерпуль_Барный_столик.jpg",
+                "1200_Shelf-Liverpool-Lux.jpg",
+                "8cf80d0feab7f4ef67e8e633cdec20de.jpg",
+                "1200_Framer-Liverpool.jpg",
+                "Коллекция Ливерпуль-Люкс new.png",
+                "Interior-Liverpool-.jpg"
+            ],
+            "sizes": [
+                "9",
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня",
+                    "plita_type": "Super Stone 45 mm",
+                    "ves": "1170",
+                    "leg": "8",
+                    "price": 66040
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1200",
+                    "leg": "8",
+                    "price": 80210
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив ясеня",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1000",
+                    "leg": "8",
+                    "price": 76440
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив ясеня",
+                    "plita_type": "Super Stone 40 mm",
+                    "ves": "740",
+                    "leg": "6",
+                    "price": 52780
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив ясеня",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "770",
+                    "leg": "6",
+                    "price": 61750
+                },
+                [],
+                {
+                    "type": "Пирамида/ Пул",
+                    "size": 9,
+                    "material_stol": "Массив ясеня",
+                    "plita_type": "Super Stone 40 mm",
+                    "ves": "600",
+                    "leg": "6",
+                    "price": 49920
+                },
+                {
+                    "type": "Пирамида/ Пул",
+                    "size": 9,
+                    "material_stol": "Массив ясеня",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "650",
+                    "leg": "6",
+                    "price": 60190
+                }
+            ],
+            "parametres": [
+                [
+                    "Отделка:",
+                    "максимальное старение, патина"
+                ],
+                "br",
+                [
+                    "Дополнительно:",
+                    "внутренняя конструкция столов из массива ясеня допускает использование сосны"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Сочетание профессиональных игровых качеств и конкурентной стоимости \n ",
+                "\n\t Бильярдная коллекция «Ливерпуль-Люкс» представляет собой воплощение лаконичности и профессионализма. Десятки клубов и сотни покупателей остановили свой выбор на этой демократичной модели.\n",
+                "\n\t Коллекция декорирована патиной, что придает натуральному дереву эффект старины. Бильярдный стол изготовлен из массива ясеня, его фактура в сочетании с патиной придает особую выразительность поверхности. Шульцевское крепление ног обеспечивает столу высокую устойчивость. Система плавающих гаек в вертикальном креплении бортов позволяет идеальным образом крепить борт к плите. Благодаря этой уникальной технологии борт и плита становятся единым монолитом. Профессиональные амортизаторы бортов Start Super Pro на долгие годы гарантируют отличный отскок шара.\n",
+                "\n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "morskaya": {
+            "name": "Морская",
+            "images": [
+                "2018_Sea.jpg",
+                "2018_Tb_Sea_02.jpg",
+                "CueRack-Sea_02.jpg",
+                "Lamp_Sea_wite.jpg",
+                "2019_Tb_Sea_00.jpg",
+                "2019_Tb_Sea_01.jpg",
+                "2019_Tb_Sea_02.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня/клен",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1700",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив ясеня/клен",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1500",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив ясеня/клен",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1200",
+                    "leg": "6",
+                    "price": 130
+                }
+            ],
+            "parametres": [
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                " ",
+                "Высочайший стандарт для поклонников высокой эстетики, изящества и роскоши.",
+                "\n\t Коллекция «Морская» соответствует высочайшему бильярдному стандарту, в которой стол отвечает высокой категории игровых качеств. В ее создании применены передовые технологии «Старт», используются эксклюзивные комплектующие и ценные материалы.\n",
+                "\n\t Весь декор коллекции \"заточен\" под морскую тематику. Построение лафета стола придает сходство с палубой корабля, а впечатляющая роспись покоряет живописностью. \n",
+                "Живописное полотно выполняется индивидуально под заказчика.     ",
+                "\n\t Киевница «Морская» украшена часами и также имеет морской декор. Бильярдный светильник дополняет композицию и завершает ансамбль.\n\t Коллекция «Морская» с массивной ручной резьбой по дереву станет шедевром персональной бильярдной и придется по вкусу тем, кто влюблен в море.    \n",
+                "\n\t Бильярдная коллекция «Морская » – пример высочайшего мастерства, она создана для поклонников высокой эстетики, изящества и роскоши.  \n",
+                "\n \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "motsart_collection": {
+            "name": "Моцарт",
+            "images": [
+                "2021_Mozart.jpg",
+                "2021_Tb_Mozart_01.jpg",
+                "2021_Tb_Mozart_02.jpg",
+                "2021_Tb_Mozart_03.jpg",
+                "2021_Tb_Mozart_04.jpg",
+                "2021_Tb_Mozart_05.jpg",
+                "2021_Tb_Mozart_06.jpg",
+                "2021_Tb_Mozart_07.jpg",
+                "CueRack_Mozart_01.jpg",
+                "CueRack_Mozart_02.jpg",
+                "CueRack_Mozart_03.jpg",
+                "CueRack_Mozart_04.jpg",
+                "Lamp_Mozart_01_white.jpg",
+                "Lamp_Mozart_02_green.jpg",
+                "Lamp_Mozart_03_wine.jpg",
+                "Mozart_интерьер_01.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив граб",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1340",
+                    "leg": "8",
+                    "price": 260
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив граб",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1200",
+                    "leg": "8",
+                    "price": 260
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив граб",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "850",
+                    "leg": "6",
+                    "price": 130
+                }
+            ],
+            "parametres": [
+                [
+                    "Отделка:",
+                    "авторская выкраска Blanco-Plumon, золотая поталь"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Гармония изысканности и роскоши.",
+                "\n\t Бильярдная коллекция «Моцарт» украсит интерьер самых пышных апартаментов.\n\t Такое название выбрано не случайно, стилистика стола полностью соответствует духу эпохи Классицизма.\n",
+                "\n\t \"Солистом\" коллекции безусловно является эксклюзивный бильярдный стол. Он выполнен из граба, поэтому может служить веками. Антикварная выкраска выполняется вручную золотой поталью и подчеркивает весь резной декор. Уникальность стола не только во внешнем оформлении. «Моцарт» сконструирован на основе экспертных знаний и мощной производственной базы Фабрики «Старт», именно поэтому все игровые характеристики стола соответствуют высочайшему уровню. Шульцевское крепление ног гарантирует максимальную устойчивость конструкции. Профессиональные амортизаторы бортов Start Super Pro надолго обеспечит отличный отскок шара. В стандартную комплектацию входит сукно с высокими эксплуатационными характеристиками бренда Manchester.\n",
+                "\n\t Галерею шедевров коллекции дополняют киевница и светильник \"Моцарт\".  \n",
+                "\n \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "kollektsiya_neapol": {
+            "name": "Неаполь",
+            "images": [
+                "2020_Неаполь.jpg",
+                "2019_Tb_Неаполь_01.jpg",
+                "CueRack-Andaluz_02.jpg",
+                "Lamp_Andaluz_green.jpg",
+                "Неаполь_интерьер.jpg",
+                "2019_Tb_Неаполь_04.jpg",
+                "2019_Tb_Неаполь_05.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня/клен",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1700",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив ясеня/клен",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1500",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив ясеня/клен",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1200",
+                    "leg": "6",
+                    "price": 130
+                }
+            ],
+            "parametres": [
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                " ",
+                "Сказочная красота и грация бильярдного эксклюзива.",
+                "\n\t «Неаполь» - уникальный бильярдный стол, отличающийся, как и сам город, сказочной красотой, грацией, самобытной энергетикой и атмосферой.\n\t Стол с массивной ручной резьбой по дереву. Роспись стола плотно перекликается с тематикой, отличается выразительной живописной техникой, художники Фабрики выполняют ее в ручную. Сюжет полотна выбирается заказчиком индивидуально. \n\t В создании этого бильярда применены самые передовые технологии Фабрики, в столе используются эксклюзивные комплектующие и ценные материалы. Категория игровых качеств соответствует высочайшему бильярдному стандарту.\n",
+                "Живописное полотно выполняется индивидуально под заказчика.",
+                "\n\t Киевница функционально украшена часами. Бильярдный светильник дополняет композицию и завершает ансамбль.\n\t Коллекция «Неаполь» станет шедевром персональной бильярдной. \n",
+                "\n \n",
+                "\n \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "okhota_": {
+            "name": "Охота",
+            "images": [
+                "2021_Охота.jpg",
+                "2021_Tb_Ohota_интерьер_04.jpg",
+                "2021_Tb_Ohota_01.jpg",
+                "2021_Tb_Ohota_интерьер_03.jpg",
+                "CueRack_Ohota_01.jpg",
+                "2021_Tb_Ohota_интерьер_05.jpg",
+                "Evolution_Ohota_00.jpg",
+                "2021_Tb_Ohota_интерьер_02.jpg",
+                "2021_Tb_Ohota_06.jpg",
+                "2021_Tb_Ohota_05.jpg",
+                "CueRack_Ohota_03.jpg",
+                "CueRack_Ohota_04.jpg",
+                "Evolution_Ohota_02.jpg",
+                "Evolution_Ohota_03.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Ясень/сосна/граб",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1750",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Ясень/сосна/граб",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1490",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Ясень/сосна/граб",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1200",
+                    "leg": "6",
+                    "price": 123240
+                }
+            ],
+            "parametres": [
+                [
+                    "Цвет:",
+                    "светлый дуб"
+                ],
+                "br",
+                [
+                    "Лузы:",
+                    "отделаны кожей ручной работы"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Настоящий трофей эксклюзивного стиля! ",
+                "\n\t «Охота» — эксклюзивная бильярдной коллекции Фабрики «Старт», созданная для ценителей искусства бильярда.\n\t Сердцем коллекции, безусловно, является бильярдный стол. Декор стола сочетает в себе барельеф царя зверей - льва, символ силы, мужества и оленя - символ возрождения жизни и созидания. Категория игровых качеств  стола «Охота» соответствует высочайшему бильярдному стандарту. Стол выполнен из комбинации пород дерева: ясень/сосна/граб. В построении используется новая технология безупречного крепления борта к плите - Mount Perfect, которая гарантирует повышенную жесткость конструкции. Эффектные лузы отделаны кожей ручной работы с геральдическим тиснением. \n",
+                "\n\t Коллекция призвана подчеркнуть стилистику интерьера гостиной комнаты, каминного зала загородного дома или трофейной комнаты и включает в себя: бильярдный стол, киевницу с часами и лампу. Несомненно, бильярдная коллекция «Охота» станет семейной реликвией в Вашем доме.\n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "collection_president": {
+            "name": "Президент",
+            "images": [
+                "2018_Presedent.jpg",
+                "93528591ff9c7be98e0ca5886b823c2c.jpg",
+                "bf88abb9928015544944883f1f9fb015.jpg",
+                "01_Lamp-President.jpg",
+                "Диван_Президент_01.jpg",
+                "Кресло_Президент.jpg",
+                "Стул_Президент.jpg",
+                "Табурет_мягкий.jpg",
+                "president.jpg",
+                "0163403f4627ef3a8ca3250902af68ec.jpg",
+                "03a0a81ddde30ecb7cac53b298722b68.jpg",
+                "Президент.jpg",
+                "Коллекция Президент new.png",
+                "Interior-President.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Камень Super Stone, 45 мм",
+                    "ves": "1710",
+                    "leg": "8",
+                    "price": 96460
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Камень PBS, 40 мм",
+                    "ves": "1710",
+                    "leg": "8",
+                    "price": 99580
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Сланец Orero, 30 мм",
+                    "ves": "1350",
+                    "leg": "8",
+                    "price": 106210
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1740",
+                    "leg": "8",
+                    "price": 109460
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "1250",
+                    "leg": "8",
+                    "price": 93210
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Камень PBS, 40 мм",
+                    "ves": "1250",
+                    "leg": "8",
+                    "price": 94900
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1280",
+                    "leg": "8",
+                    "price": 106730
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "1150",
+                    "leg": "6",
+                    "price": 79300
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Камень PBS, 40 мм",
+                    "ves": "1150",
+                    "leg": "6",
+                    "price": 82160
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1180",
+                    "leg": "6",
+                    "price": 88270
+                }
+            ],
+            "parametres": [
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован усиленный металлический каркас"
+                ],
+                "br",
+                [
+                    "Горизонтальное крепление бортов:",
+                    "+10% к стоимости, устанавливается на столы 10 и 12 фт на натуральном сланце"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Уверенный лидер премиум-класса \n ",
+                "\n\t Бильярдная коллекция «Президент» сочетает основательные четкие линии и роскошь натуральных материалов классической цветовой гаммы.\n",
+                "\n\t В конструкции стола «Президент» сосредоточены самые прогрессивные достижения бильярдной индустрии, лучшие комплектующие и материалы. Амортизаторы Start Brilliant для стола «Президент» изготавливаются в Германии по эксклюзивной технологии. Такая «экструдерная» резина на долгие годы сохраняет свою эластичность, и угол отскока шара даже через 10 лет остается таким же, как у нового стола. Автономная несущая металлическая конструкция в основе стола обеспечивает непревзойденную устойчивость на протяжении долгих лет эксплуатации. \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "prezident_iii": {
+            "name": "Президент III",
+            "images": [
+                "Коллекция-Президент-III.jpg",
+                "2000_Tb_PresedentIII.jpg",
+                "2000_CueRack-PresidentIII-c4.jpg",
+                "9_10_President_00.jpg",
+                "900_Table-PresidentIII.jpg",
+                "Стул_Президент.jpg",
+                "табурет_PresidentIII.jpg",
+                "Диван_Президент_01.jpg",
+                "1000_Mirror-PresidentIII.jpg",
+                "1100_Shelf-PresidentIII.jpg",
+                "Президент3.jpg",
+                "Коллекция Президент III new.png",
+                "in_2018_Presedent_III.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Камень Super Stone, 45 мм",
+                    "ves": "1710",
+                    "leg": "8",
+                    "price": 96460
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Камень PBS, 45 мм",
+                    "ves": "1710",
+                    "leg": "8",
+                    "price": 99580
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Сланец Orero, 30 мм",
+                    "ves": "1350",
+                    "leg": "8",
+                    "price": 106210
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1740",
+                    "leg": "8",
+                    "price": 109460
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "1250",
+                    "leg": "8",
+                    "price": 93210
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Камень PBS, 40 мм",
+                    "ves": "1250",
+                    "leg": "8",
+                    "price": 94900
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1280",
+                    "leg": "8",
+                    "price": 106730
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Камень Super Stone, 40 мм",
+                    "ves": "1150",
+                    "leg": "6",
+                    "price": 79300
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Камень PBS, 40 мм",
+                    "ves": "1150",
+                    "leg": "6",
+                    "price": 82160
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив ясеня/дуба",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1180",
+                    "leg": "6",
+                    "price": 88270
+                }
+            ],
+            "parametres": [
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован усиленный металлический каркас"
+                ],
+                "br",
+                [
+                    "Горизонтальное крепление бортов:",
+                    "+10% к стоимости, устанавливается на столы 10 и 12 фт на натуральном сланце"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Прогрессивные технологии и строгий дизайн.",
+                "",
+                "",
+                ""
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "collection_president_silver": {
+            "name": "Президент Сильвер",
+            "images": [
+                "2018_Presedent_Silver.jpg",
+                "8d66d61aa441e6675221711f7f9fdbe0.jpg",
+                "5ba23a643eaee817468ddc50f87f46c3.jpg",
+                "01_Lamp-President-Silver.jpg",
+                "Диван_Президент_Сильвер_01.jpg",
+                "Кресло_Президент_Сильвер.jpg",
+                "Стул_Президент_сильвер.jpg",
+                "Табуреты_Президент_Сильвер.jpg",
+                "ba50dce1ba314facb53a4200e4d6c35c.jpg",
+                "18b6282a9043a454bdea39ed59d468b3.jpg",
+                "3c1a8ce2254339a6c496887cea89d647.jpg",
+                "Президент_Сильвер.jpg",
+                "Коллекция Президент Сильвер new.png",
+                "2018_Presedent_Silver_in.jpg"
+            ],
+            "sizes": [
+                "9",
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня или дуба",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1710",
+                    "leg": "8",
+                    "price": 120380
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив ясеня или дуба",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1250",
+                    "leg": "8",
+                    "price": 115310
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив ясеня или дуба",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1150",
+                    "leg": "6",
+                    "price": 96330
+                },
+                [],
+                {
+                    "type": "Пирамида/ Пул",
+                    "size": 9,
+                    "material_stol": "Массив ясеня или дуба",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "850",
+                    "leg": "6",
+                    "price": 93990
+                }
+            ],
+            "parametres": [
+                [
+                    "Отделка:",
+                    "серебряной пастой"
+                ],
+                "br",
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Эксклюзивная разработка Фабрики «Старт» с отделкой серебром",
+                "\n\t Стильная классика коллекции «Президент Сильвер» выполнена из ценных древесных пород в традиционной морской гамме. Изюминкой коллекции является особая технология искусственного старения древесины, придающая бильярдному столу и аксессуарам сходство с палубой старинного корабля.\n",
+                "\n\t Процесс обработки поверхности элементов коллекции протекает в пять этапов. Основа грунтуется и тщательно шлифуется вручную. Затем наносится лак и краска темно-пепельного цвета. Далее осуществляется отделка серебром: серебряная паста втирается в древесные поры исключительно вручную. Последний штрих - шлифовка суконным материалом для большей выраженности структуры дерева и финишный слой лака. Бильярдный стол «Президент Сильвер» не только неповторим по стилю, но и соответствует всем требованиям, предъявляемым к профессиональному бильярду.\n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    },
+    {
+        "kollektsiya_premer": {
+            "name": "«Премьер»",
+            "images": [
+                "2020_Prime_01.jpg",
+                "2020_Tb_Prime_01.jpg",
+                "Lamp_Prime_green.jpg",
+                "CueRack-Prime_02.jpg",
+                "2020_Prime_02.jpg"
+            ],
+            "sizes": [
+                "10",
+                "11",
+                "12"
+            ],
+            "table": [
+                [],
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня",
+                    "plita_type": "Камень Super Stone, 45 мм",
+                    "ves": "1500",
+                    "leg": "8",
+                    "price": 130
+                },
+                {
+                    "type": "Пирамида",
+                    "size": 12,
+                    "material_stol": "Массив ясеня",
+                    "plita_type": "Сланец Orero, 45 мм",
+                    "ves": "1500",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 11,
+                    "material_stol": "Массив ясеня",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1350",
+                    "leg": "8",
+                    "price": 130
+                },
+                [],
+                {
+                    "type": "Пирамида",
+                    "size": 10,
+                    "material_stol": "Массив ясеня",
+                    "plita_type": "Сланец Orero, 40 мм",
+                    "ves": "1150",
+                    "leg": "8",
+                    "price": null
+                }
+            ],
+            "parametres": [
+                [
+                    "Дополнительные характеристики:",
+                    "интегрирован металлический каркас"
+                ],
+                "br",
+                [
+                    "Тип плиты сланец Orero Lux:",
+                    "+10% к стоимости на сланец Orero Lux. Алмазная двойная шлифовка плит."
+                ],
+                "br"
+            ],
+            "description": [
+                "Индивидуальный характер и безупречные игровые свойства для ценителей высокого бильярда.\n ",
+                "",
+                "",
+                "",
+                "",
+                "\n \n"
+            ],
+            "collection": false,
+            "sukno-color": false,
+            "vkraski-color": false
+        }
+    }
+]

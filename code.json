@@ -1,0 +1,669 @@
+{
+    "arsenal": {
+        "name": "Бильярдный стол Арсенал",
+        "images": [
+            "01_Tb_Arsenal_Lux.jpg",
+            "02_Tb_Arsenal_Lux.jpg",
+            "03_Tb_Arsenal_Lux.jpg",
+            "05_Tb_Arsenal_Lux.jpg",
+            "Арсенал_турниры.jpg",
+            "комплектация_стандарт_люкс_130_px.jpg"
+        ],
+        "sizes": [
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "table": [
+            [],
+            {
+                "type": "Пирамида",
+                "size": 12,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Камень Super Stone, 45 мм",
+                "ves": "1200",
+                "leg": "8",
+                "price": 30160
+            },
+            {
+                "type": "Пирамида",
+                "size": 12,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Камень PBS, 45 мм",
+                "ves": "1200",
+                "leg": "8",
+                "price": 34060
+            },
+            {
+                "type": "Пирамида",
+                "size": 12,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Сланец Orero, 30 мм",
+                "ves": "990",
+                "leg": "8",
+                "price": 41340
+            },
+            {
+                "type": "Пирамида",
+                "size": 12,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Сланец Orero, 45 мм",
+                "ves": "1200",
+                "leg": "8",
+                "price": 42640
+            },
+            {
+                "type": "Пирамида",
+                "size": 12,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Камень Super Stone, 45 мм",
+                "ves": "1200",
+                "leg": "8",
+                "price": 31850
+            },
+            {
+                "type": "Пирамида",
+                "size": 12,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Камень PBS, 45 мм",
+                "ves": "1200",
+                "leg": "8",
+                "price": 35880
+            },
+            {
+                "type": "Пирамида",
+                "size": 12,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Сланец Orero, 30 мм",
+                "ves": "990",
+                "leg": "8",
+                "price": 43420
+            },
+            {
+                "type": "Пирамида",
+                "size": 12,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Сланец Orero, 45 мм",
+                "ves": "1200",
+                "leg": "8",
+                "price": 44720
+            },
+            {
+                "type": "Пирамида",
+                "size": 12,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Камень Super Stone, 45 мм",
+                "ves": "1200",
+                "leg": "8",
+                "price": 32500
+            },
+            {
+                "type": "Пирамида",
+                "size": 12,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Камень PBS, 45 мм",
+                "ves": "1200",
+                "leg": "8",
+                "price": 36530
+            },
+            {
+                "type": "Пирамида",
+                "size": 12,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Сланец Orero, 30 мм",
+                "ves": "990",
+                "leg": "8",
+                "price": 44070
+            },
+            {
+                "type": "Пирамида",
+                "size": 12,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Сланец Orero, 45 мм",
+                "ves": "1200",
+                "leg": "8",
+                "price": 45370
+            },
+            [],
+            {
+                "type": "Пирамида",
+                "size": 11,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Камень Super Stone, 40 мм",
+                "ves": "1000",
+                "leg": "8",
+                "price": 28600
+            },
+            {
+                "type": "Пирамида",
+                "size": 11,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Камень PBS, 40 мм",
+                "ves": "1000",
+                "leg": "8",
+                "price": 31850
+            },
+            {
+                "type": "Пирамида",
+                "size": 11,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Сланец Orero, 30 мм",
+                "ves": "825",
+                "leg": "8",
+                "price": 40040
+            },
+            {
+                "type": "Пирамида",
+                "size": 11,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Сланец Orero, 40 мм",
+                "ves": "1000",
+                "leg": "8",
+                "price": 40300
+            },
+            {
+                "type": "Пирамида",
+                "size": 11,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Камень Super Stone, 40 мм",
+                "ves": "1000",
+                "leg": "8",
+                "price": 29900
+            },
+            {
+                "type": "Пирамида",
+                "size": 11,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Камень PBS, 40 мм",
+                "ves": "1000",
+                "leg": "8",
+                "price": 33150
+            },
+            {
+                "type": "Пирамида",
+                "size": 11,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Сланец Orero, 30 мм",
+                "ves": "825",
+                "leg": "8",
+                "price": 41730
+            },
+            {
+                "type": "Пирамида",
+                "size": 11,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Сланец Orero, 40 мм",
+                "ves": "1000",
+                "leg": "8",
+                "price": 41860
+            },
+            {
+                "type": "Пирамида",
+                "size": 11,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Камень Super Stone, 40 мм",
+                "ves": "1000",
+                "leg": "8",
+                "price": 30940
+            },
+            {
+                "type": "Пирамида",
+                "size": 11,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Камень PBS, 40 мм",
+                "ves": "1000",
+                "leg": "8",
+                "price": 34190
+            },
+            {
+                "type": "Пирамида",
+                "size": 11,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Сланец Orero, 30 мм",
+                "ves": "825",
+                "leg": "8",
+                "price": 42770
+            },
+            {
+                "type": "Пирамида",
+                "size": 11,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Сланец Orero, 40 мм",
+                "ves": "1000",
+                "leg": "8",
+                "price": 42900
+            },
+            [],
+            {
+                "type": "Пирамида",
+                "size": 10,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Камень Super Stone, 40 мм",
+                "ves": "770",
+                "leg": "6",
+                "price": 23270
+            },
+            {
+                "type": "Пирамида",
+                "size": 10,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Камень PBS, 40 мм",
+                "ves": "770",
+                "leg": "6",
+                "price": 25740
+            },
+            {
+                "type": "Пирамида",
+                "size": 10,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Сланец Orero, 25 мм",
+                "ves": "750",
+                "leg": "6",
+                "price": 29380
+            },
+            {
+                "type": "Пирамида",
+                "size": 10,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Сланец Orero, 40 мм",
+                "ves": "950",
+                "leg": "6",
+                "price": 31070
+            },
+            {
+                "type": "Пирамида",
+                "size": 10,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Камень Super Stone, 40 мм",
+                "ves": "770",
+                "leg": "6",
+                "price": 24570
+            },
+            {
+                "type": "Пирамида",
+                "size": 10,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Камень PBS, 40 мм",
+                "ves": "770",
+                "leg": "6",
+                "price": 27170
+            },
+            {
+                "type": "Пирамида",
+                "size": 10,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Сланец Orero, 25 мм",
+                "ves": "750",
+                "leg": "6",
+                "price": 30810
+            },
+            {
+                "type": "Пирамида",
+                "size": 10,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Сланец Orero, 40 мм",
+                "ves": "950",
+                "leg": "6",
+                "price": 32630
+            },
+            {
+                "type": "Пирамида",
+                "size": 10,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Камень Super Stone, 40 мм",
+                "ves": "770",
+                "leg": "6",
+                "price": 25220
+            },
+            {
+                "type": "Пирамида",
+                "size": 10,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Камень PBS, 40 мм",
+                "ves": "770",
+                "leg": "6",
+                "price": 27690
+            },
+            {
+                "type": "Пирамида",
+                "size": 10,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Сланец Orero, 25 мм",
+                "ves": "750",
+                "leg": "6",
+                "price": 31330
+            },
+            {
+                "type": "Пирамида",
+                "size": 10,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Сланец Orero, 40 мм",
+                "ves": "950",
+                "leg": "6",
+                "price": 33280
+            },
+            [],
+            {
+                "type": "Пирамида / Пул",
+                "size": 9,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Камень Super Stone, 40 мм",
+                "ves": "650",
+                "leg": "6",
+                "price": 21190
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 9,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Камень PBS, 40 мм",
+                "ves": "650",
+                "leg": "6",
+                "price": 23140
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 9,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Сланец Orero, 25 мм",
+                "ves": "520",
+                "leg": "6",
+                "price": 24050
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 9,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Сланец Orero, 40 мм",
+                "ves": "670",
+                "leg": "6",
+                "price": 30290
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 9,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Камень Super Stone, 40 мм",
+                "ves": "650",
+                "leg": "6",
+                "price": 22360
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 9,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Камень PBS, 40 мм",
+                "ves": "650",
+                "leg": "6",
+                "price": 24310
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 9,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Сланец Orero, 25 мм",
+                "ves": "520",
+                "leg": "6",
+                "price": 25350
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 9,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Сланец Orero, 40 мм",
+                "ves": "670",
+                "leg": "6",
+                "price": 31720
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 9,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Камень Super Stone, 40 мм",
+                "ves": "650",
+                "leg": "6",
+                "price": 23010
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 9,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Камень PBS, 40 мм",
+                "ves": "650",
+                "leg": "6",
+                "price": 24960
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 9,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Сланец Orero, 25 мм",
+                "ves": "520",
+                "leg": "6",
+                "price": 26000
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 9,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Сланец Orero, 40 мм",
+                "ves": "670",
+                "leg": "6",
+                "price": 32370
+            },
+            [],
+            {
+                "type": "Пирамида / Пул",
+                "size": 8,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Камень Super Stone, 40 мм",
+                "ves": "540",
+                "leg": "6",
+                "price": 18070
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 8,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Камень PBS, 40 мм",
+                "ves": "540",
+                "leg": "6",
+                "price": 19500
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 8,
+                "material_stol": "«Стандарт». Береза/сосна",
+                "plita_type": "Сланец Orero, 25 мм",
+                "ves": "440",
+                "leg": "6",
+                "price": 20670
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 8,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Камень Super Stone, 40 мм",
+                "ves": "540",
+                "leg": "6",
+                "price": 18980
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 8,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Камень PBS, 40 мм",
+                "ves": "540",
+                "leg": "6",
+                "price": 20540
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 8,
+                "material_stol": "«Про». Береза/сосна",
+                "plita_type": "Сланец Orero, 25 мм",
+                "ves": "440",
+                "leg": "6",
+                "price": 21710
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 8,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Камень Super Stone, 40 мм",
+                "ves": "540",
+                "leg": "6",
+                "price": 19370
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 8,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Камень PBS, 40 мм",
+                "ves": "540",
+                "leg": "6",
+                "price": 20930
+            },
+            {
+                "type": "Пирамида / Пул",
+                "size": 8,
+                "material_stol": "«Люкс». Береза/сосна",
+                "plita_type": "Сланец Orero, 25 мм",
+                "ves": "440",
+                "leg": "6",
+                "price": 22230
+            }
+        ],
+        "parametres": [
+            [
+                "Цвет выкраски:",
+                ""
+            ],
+            "br",
+            [
+                "3st_luza_t",
+                ""
+            ],
+            "br",
+            [
+                "Цвет сукна:",
+                ""
+            ],
+            "br",
+            [
+                "Yellow green",
+                ""
+            ],
+            "br",
+            [
+                "Гарантия:",
+                "12 месяцев"
+            ],
+            "br",
+            [
+                "Цель использования:",
+                "коммерческая"
+            ],
+            "br",
+            [
+                "Лузы. Комплектация  «Стандарт»:",
+                "накладные, кожаные сетки со скатом. Скоба силуминовая, окрас золото"
+            ],
+            "br",
+            [
+                "Лузы. Комплектация «Люкс» / «Про»:",
+                "накладные, кожаные сетки со скатом. Скоба латунная, позолоченная"
+            ],
+            "br",
+            [
+                "Опоры.  Комплектация  «Стандарт»:",
+                "квадратные, стальные, окрас золото"
+            ],
+            "br",
+            [
+                "Опоры.  Комплектация «Про»:",
+                "круглые, стальные"
+            ],
+            "br",
+            [
+                "Опоры.  Комплектация «Люкс»:",
+                "квадратные, стальные, позолоченные"
+            ],
+            "br",
+            [
+                "Горизонтальное крепление бортов:",
+                "+10% к стоимости, устанавливается на столы 10 и 12 фт на натуральном сланце"
+            ],
+            "br",
+            [
+                "Файлы и инструкции:",
+                "\n                Стандарт цвета луз столов Фабрики Старт\n                "
+            ],
+            "br"
+        ],
+        "description": [
+            "Столы серии «Арсенал» - официальные столы Суперфинала чемпионата мира-2016. Сочетание высоких игровых качеств в лаконичном внешнем виде.",
+            "«Абсолютного чемпиона мира по пирамиде»",
+            "",
+            "",
+            "камня PBS",
+            "SUPER STONE",
+            "",
+            "\n\t Модель стола имеет три вида комплектации, отличающихся чашками опор и скобами луз. \n",
+            "\n \n",
+            "",
+            "",
+            ""
+        ],
+        "collection": false,
+        "sukno-color": false,
+        "vkraski-color": false,
+        "specification": {
+            "complectation": [
+                {
+                    "info": "https://www.fabrika-start.ru/upload/medialibrary/556/ideal%20plane.png"
+                },
+                {
+                    "info": "https://www.fabrika-start.ru/upload/medialibrary/688/MP_%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_03.png"
+                },
+                {
+                    "info": "https://www.fabrika-start.ru/upload/medialibrary/421/Euro-Pro.jpg"
+                },
+                {
+                    "info": "https://www.fabrika-start.ru/upload/medialibrary/b21/%D0%BF%D0%BB%D0%B8%D1%82%D1%8B_SS_ORERO+PBS.jpg"
+                },
+                {
+                    "info": "https://www.fabrika-start.ru/upload/medialibrary/6bc/StartSuperPRO.jpg"
+                },
+                {
+                    "info": "https://www.fabrika-start.ru/upload/medialibrary/3a5/%D0%9B%D1%83%D0%B7%D0%B0_%D1%81%D1%82%D0%B0%D0%BB%D1%8C_%D1%81%D0%BA%D0%B0%D1%82_%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+                },
+                {
+                    "info": "https://www.fabrika-start.ru/upload/medialibrary/8d1/%D1%81%D0%BA%D0%BE%D0%B1%D0%B0_%D1%81%D0%B8%D0%BB%D1%83%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D0%BA%D1%80%D0%B0%D1%81_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE.jpg"
+                },
+                {
+                    "info": "https://www.fabrika-start.ru/upload/medialibrary/a00/%D1%81%D0%BA%D0%BE%D0%B1%D0%B0_%D0%BB%D0%B0%D1%82%D1%83%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B7%D0%BE%D0%BB%D0%BE%D1%87%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F.jpg"
+                },
+                {
+                    "info": "https://www.fabrika-start.ru/upload/medialibrary/4a8/150_%D0%BC%D0%BC_%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82_%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB_%D0%BE%D0%BA%D1%80_02.jpg"
+                },
+                {
+                    "info": "https://www.fabrika-start.ru/upload/medialibrary/8d1/150_%D0%BC%D0%BC_%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82_%D1%81%D1%82%D0%B0%D0%BB%D1%8C_02.jpg"
+                },
+                {
+                    "info": "https://www.fabrika-start.ru/upload/medialibrary/c17/140_%D0%BC%D0%BC_%D0%BA%D0%B2_%D0%BA%D1%80%D1%83%D0%B3_%D1%81%D1%82%D0%B0%D0%BB%D1%8C.jpg"
+                }
+            ],
+            "material": [
+                {
+                    "info": "https://www.fabrika-start.ru/upload/medialibrary/892/%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%B0.jpg"
+                },
+                {
+                    "info": "https://www.fabrika-start.ru/upload/medialibrary/f59/%D1%81%D0%BE%D1%81%D0%BD%D0%B0.jpg"
+                }
+            ]
+        }
+    }
+}
