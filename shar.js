@@ -1,14 +1,69 @@
 const fs = require("fs/promises")
 const puppeteer = require('puppeteer');
-const links = require("./array")
 
 
-let DATE = new Date();
-var OldMin = DATE.getMinutes();
+const links = [
+    "/sect/1008/good/start-billiards-403/",
+    "/sect/1008/good/start_billiards_snooker_52_4_mm/",
+    "/sect/1008/good/start-billiards-prem406/",
+    "/sect/1008/good/start-billiards-prem404/",
+    "/sect/1008/good/start-billiards-401/",
+    "/sect/1008/good/start-billiards-prem402/",
+    "/sect/1008/good/kit-acs-2/",
+    "/sect/1008/good/komplekt_aksessuarov_38_nbr_3800/",
+    "/sect/1008/good/kit-acs-1/",
+    "/sect/1009/good/tao_mi_67_mm_bbta67_rc/",
+    "/sect/1009/good/tao_mi_67_mm_bbta67_yc/",
+    "/sect/1009/good/shar_bitok_tao_mi_67_mm_yc/",
+    "/sect/1009/good/shar_bitok_tao_mi_67_mm_rc/",
+    "/sect/1009/good/shar_15_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_14_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_13_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_12_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_11_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_10_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_9_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_8_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_7_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_6_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_5_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_4_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_3_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_2_tao_mi_professional_67_mm/",
+    "/sect/1009/good/shar_1_tao_mi_professional_67_mm/",
+    "/sect/1006/good/dyna_spheres_silver_snooker_next_gen_52_4_mm_bdssnsi524/",
+    "/sect/1006/good/dyna_spheres_bronze_pool_next_gen_57_2_mm_bdspobr572us/",
+    "/sect/1006/good/dyna_spheres_tungsten_pool_next_gen_57_2_mm_bdspotu572us/",
+    "/sect/1006/good/dyna_spheres_prime_pyramid_next_gen_68_mm_bdspybr680y/",
+    "/sect/1006/good/dyna_spheres_prime_pyramid_next_gen_68_mm_bdspybr680r/",
+    "/sect/1006/good/dyna_spheres_prime_pyramid_next_gen_67_mm_bdspybr670y/",
+    "/sect/1006/good/dyna_spheres_prime_pyramid_next_gen_67_mm_bdspybr670r/",
+    "/sect/1006/good/shar_bitok_dyna_spheres_prime_pyramid_next_gen_68_mm_bdspybr68y_/",
+    "/sect/1006/good/shar_bitok_dyna_spheres_prime_pyramid_next_gen_68_mm_bdspybr68r/",
+    "/sect/1006/good/shar_bitok_dyna_spheres_prime_pyramid_next_gen_67_mm_bdspybr67y/",
+    "/sect/1006/good/shar_bitok_dyna_spheres_prime_pyramid_next_gen_67_mm_bdspybr67r/",
+    "/sect/1006/good/shar_15_dyna_spheres_prime_pyramid_67_mm_bbd_67_15/",
+    "/sect/1006/good/shar_14_dyna_spheres_prime_pyramid_67_mm_bbd_67_14/",
+    "/sect/1006/good/shar_13_dyna_spheres_prime_pyramid_67_mm_bbd_67_13/",
+    "/sect/1006/good/shar_12_dyna_spheres_prime_pyramid_67_mm_bbd_67_12/",
+    "/sect/1006/good/shar_11_dyna_spheres_prime_pyramid_67_mm_bbd_67_11/",
+    "/sect/1006/good/shar_10_dyna_spheres_prime_pyramid_67_mm_bbd_67_10/",
+    "/sect/1006/good/shar_9_dyna_spheres_prime_pyramid_67_mm_bbd_67_9/",
+    "/sect/1006/good/shar_8_dyna_spheres_prime_pyramid_67_mm_bbd_67_8/",
+    "/sect/1006/good/shar_7_dyna_spheres_prime_pyramid_67_mm_bbd_67_7/",
+    "/sect/1006/good/shar_6_dyna_spheres_prime_pyramid_67_mm_bbd_67_6/",
+    "/sect/1006/good/shar_5_dyna_spheres_prime_pyramid_67_mm_bbd_67_5/",
+    "/sect/1006/good/shar_4_dyna_spheres_prime_pyramid_67_mm_bbd_67_4/",
+    "/sect/1006/good/shar_3_dyna_spheres_prime_pyramid_67_mm_bbd_67_3/",
+    "/sect/1006/good/shar_2_dyna_spheres_prime_pyramid_67_mm_bbd_67_2/",
+    "/sect/1006/good/shar_1_dyna_spheres_prime_pyramid_67_mm_bbd_67_1/",
+    "/sect/1008/good/start-billiards-405/"
+]
+let fileName = "shar.json"
 
 let bigArray = []
 
-let index = 52
+let index = 24
 
 
 
@@ -20,8 +75,9 @@ const download = () => {
     if (main.children[5].children.thumbnails) {
 
         data["images"] = Array.from(main.children[5].children.thumbnails.children[0].children).map(item => item.children[0].attributes.rel.textContent.split("/")[4])
-    } else {
-        data["images"] = Array.from(document.querySelector(".zoom").children[0].href.split("/")[6])
+    }
+    if (document.querySelector(".zoom")) {
+        data["image"] = [document.querySelector(".zoom").children[0].href.split("/")[6]]
 
     }
     if (main.children[6].children[1].children[0]?.children) {
@@ -125,6 +181,9 @@ const download = () => {
 
 
     }
+    if (document.querySelector(".parameters dt input[value='Купить']")) {
+        data["price"] = document.querySelector(".parameters dt input[value='Купить']").attributes["data-price"].nodeValue
+    }
 
 
 
@@ -139,6 +198,7 @@ const download = () => {
         data["specification"]["complectation"] = Array.from(document.querySelector("table.spec-com").children[0].children).map(item => {
             return {
                 info: item.children[0].children[0].src
+
             }
         })
 
@@ -169,8 +229,8 @@ async function purpeter(index) {
 
     await page.evaluate(download).then(data => {
         bigArray.push(data)
-        console.log(bigArray);
-        fs.writeFile('collection.json', JSON.stringify(bigArray), (err) => {
+
+        fs.writeFile(fileName, JSON.stringify(bigArray), (err) => {
             if (err) throw err;
             console.log('Data has been written to output.json');
         });
@@ -179,7 +239,7 @@ async function purpeter(index) {
         }
     }).catch(err => {
         if (err) {
-            fs.writeFile('collection.json', JSON.stringify(bigArray), (err) => {
+            fs.writeFile(fileName, JSON.stringify(bigArray), (err) => {
                 if (err) throw err;
                 console.log('Data has been written to output.json');
             });
@@ -196,10 +256,10 @@ async function purpeter(index) {
 async function Run() {
 
     if (index < links.length) {
-        console.log(links[index], `Index=> ${index}/${links.length}, Percent=> ${index/links.length }%; `);
+        console.log(links[index], `Index=> ${index}/${links.length}, Percent=> ${index / links.length}%; `);
         await purpeter(index).catch(err => {
             if (err) {
-                fs.writeFile('collection.json', JSON.stringify(bigArray), (err) => {
+                fs.writeFile(fileName, JSON.stringify(bigArray), (err) => {
                     if (err) throw err;
                     console.log('Data has been written to output.json');
                 });
@@ -210,7 +270,7 @@ async function Run() {
 
         Run()
     } else {
-        fs.writeFile('collection.json', JSON.stringify(bigArray), (err) => {
+        fs.writeFile(fileName, JSON.stringify(bigArray), (err) => {
             if (err) throw err;
             console.log('Data has been written to output.json');
         });
@@ -226,131 +286,9 @@ async function Run() {
 
 (async () => {
     await Run()
-    fs.writeFile('output.json', JSON.stringify(bigArray), (err) => {
+    fs.writeFile(fileName, JSON.stringify(bigArray), (err) => {
         if (err) throw err;
         console.log('Data has been written to output.json');
     });
 })()
 
-
-
-
-// (async function () {
-//     await Run()
-//     fs.writeFile('output.json', JSON.stringify(bigArray), (err) => {
-//         if (err) throw err;
-//         console.log('Data has been written to output.json');
-//     });
-// })()
-
-// const readline = require('readline');
-
-// const rl = readline.createInterface({
-//     input: process.stdin,
-//     output: process.stdout
-// });
-
-// let numbers = [];
-
-// const askQuestion = async () => {
-//     rl.question('Lütfen bir sayı girin (çıkmak için "exit" yazın): ', async (answer) => {
-//         if (answer.toLowerCase() === 'exit') {
-//             console.log('Giriş işlemi sonlandırıldı.');
-//             fs.writeFile('output.json', JSON.stringify(bigArray), (err) => {
-//                 if (err) throw err;
-//                 console.log('Data has been written to output.json');
-//             });
-//             rl.close();
-//         } else {
-//             await Run(answer, bigArray)
-//             askQuestion();
-//         }
-//     });
-// };
-
-// askQuestion();
-
-
-[
-    '/sect/178/good/omega/',
-    '/sect/178/good/domashniy_lyuk',
-    '/sect/180/good/kompakt_layt/',
-    '/sect/176/good/baron/',
-    '/sect/180/good/kadet_kombi/',
-    '/sect/180/good/yunker/',
-    '/sect/177/good/renessans_gold/',
-    '/sect/177/good/bilyardnyy_stol_leo/',
-    '/sect/180/good/domashniy/',
-    '/sect/178/good/sibir/',
-    '/sect/180/good/kompakt_layt_shpon/', "",
-    '/sect/178/good/modern_pro/',
-    '/sect/177/good/imperator/',
-    '/sect/177/good/liverpul_ekzotik/',
-    '/sect/176/good/liverpul/',
-    '/sect/176/good/liverpul_eko/',
-    '/sect/176/good/versal/',
-    '/sect/176/good/high_style/',
-    '/sect/180/good/kadet/',
-    '/sect/178/good/loft/',
-    '/sect/176/good/high_tech/',
-    '/sect/176/good/bristol/',
-    '/sect/176/good/victory/',
-    '/sect/176/good/fusion/',
-    '/sect/176/good/techno_/',
-    '/sect/176/good/high_style_lux/',
-    '/sect/177/good/renessans_granzh_/',
-    '/sect/177/good/ampir/',
-    '/sect/177/good/drakon_granzh/',
-    '/sect/177/good/morskoy/',
-    '/sect/177/good/neapol/',
-    '/sect/177/good/premer/',
-    '/sect/177/good/dragon/',
-    '/sect/177/good/renessans/',
-    '/sect/177/good/grossmeyster/',
-    '/sect/177/good/motsart/',
-    '/sect/177/good/leo_ii/',
-    '/sect/177/good/imperator_gold/',
-    '/sect/177/good/okhota/',
-    '/sect/177/good/venetsiya_lyuks/',
-    '/sect/177/good/renessans_layt_gold/',
-    '/sect/177/good/imperator_lyuks/',
-    '/sect/177/good/prezident_silver/',
-    '/sect/177/good/veneciya/',
-    '/sect/177/good/liverpool_lux/',
-    '/sect/177/good/liverpul_krakle/',
-    '/sect/177/good/baron_lyuks/',
-    '/sect/174/good/chempion_klab/',
-    '/sect/174/good/liverpul_praym_snuker/',
-    '/sect/174/good/liverpul_klab_praym/',
-    '/sect/174/good/prezident/',
-    '/sect/174/good/prezident_praym/',
-    '/sect/174/good/prezident3/',
-    '/sect/174/good/prezident_iii_praym/',
-    '/sect/176/good/klassik/',
-    '/sect/176/good/arsenal/',
-    '/sect/176/good/arsenal_ii/',
-    '/sect/176/good/baron_ii/',
-    '/sect/176/good/liverpul_iii/',
-    '/sect/176/good/oksford/',
-    '/sect/176/good/turnirnii2/',
-    '/sect/176/good/turnirnii/',
-    '/sect/176/good/liverpoolclub/',
-    '/sect/176/good/prezident_layt/',
-    '/sect/176/good/ricar/',
-    '/sect/176/good/worldmasters/',
-    '/sect/178/good/loft_shpon/',
-    '/sect/178/good/dilerskiy_iii/',
-    '/sect/178/good/modernlux/',
-    '/sect/178/good/domashniy_lyuks_iii/',
-    '/sect/178/good/praga/',
-    '/sect/178/good/olimp/',
-    '/sect/178/good/olimp_lyuks/',
-    '/sect/178/good/gollivud/',
-    '/sect/178/good/shervud/',
-    '/sect/178/good/elefant/',
-    '/sect/180/good/nastolnyy/',
-    '/sect/180/good/nastolniy/',
-    '/sect/180/good/trainer-2/',
-    '/sect/180/good/modern_/',
-    '/sect/180/good/virtuoz/'
-]

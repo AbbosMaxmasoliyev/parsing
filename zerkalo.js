@@ -1,14 +1,39 @@
 const fs = require("fs/promises")
 const puppeteer = require('puppeteer');
-const links = require("./array")
 
 
-let DATE = new Date();
-var OldMin = DATE.getMinutes();
+const links = [
+    "/sect/240/good/zerkalo_high_style_lux/",
+    "/sect/240/good/zerkalo_high_tech/",
+    "/sect/239/good/zerkalo_baron_lyuks/",
+    "/sect/240/good/mirror_liverpool_lux/",
+    "/sect/240/good/mirror_prezident/",
+    "/sect/240/good/mirror_prezident_silver/",
+    "/sect/240/good/mirror_veneciya/",
+    "/sect/240/good/mirror_imperator/",
+    "/sect/240/good/zerkalo_ampir/",
+    "/sect/240/good/zerkalo_leo/",
+    "/sect/240/good/zerkalo_leo_ii/",
+    "/sect/240/good/mirror_imperator_gold/",
+    "/sect/240/good/zerkalo_renessans_azhurnoe/",
+    "/sect/240/good/zerkalo_imperator_lyuks/",
+    "/sect/240/good/zerkalo_renessans_gold_/",
+    "/sect/240/good/zerkalo_renessans_granzh_azhurnoe/",
+    "/sect/240/good/zerkalo_renessans_gold_azhurnoe/",
+    "/sect/240/good/zerkalo_renessans_granzh_/",
+    "/sect/240/good/zerkalo_drakon_granzh/",
+    "/sect/240/good/zerkalo_drakon/",
+    "/sect/240/good/zerkalo_kvadratnoe_baget_vinchentso/",
+    "/sect/240/good/zerkalo_kvadratnoe_baget_fodzhi/",
+    "/sect/240/good/zerkalo_kvadratnoe_baget_toskana/",
+    "/sect/240/good/zerkalo_pryamougolnoe_baget_vinchentso/",
+    "/sect/240/good/zerkalo_pryamougolnoe_baget_fodzhi/",
+    "/sect/240/good/zerkalo_pryamougolnoe_baget_toskana/"
+]
 
 let bigArray = []
 
-let index = 52
+let index = 0
 
 
 
@@ -20,8 +45,9 @@ const download = () => {
     if (main.children[5].children.thumbnails) {
 
         data["images"] = Array.from(main.children[5].children.thumbnails.children[0].children).map(item => item.children[0].attributes.rel.textContent.split("/")[4])
-    } else {
-        data["images"] = Array.from(document.querySelector(".zoom").children[0].href.split("/")[6])
+    }
+    if (document.querySelector(".zoom")) {
+        data["images"] = [document.querySelector(".zoom").children[0].href.split("/")[6]]
 
     }
     if (main.children[6].children[1].children[0]?.children) {
@@ -160,7 +186,7 @@ const download = () => {
 }
 
 
-
+let fileName = "zerkalo.json"
 
 async function purpeter(index) {
     const browser = await puppeteer.launch();
@@ -169,8 +195,8 @@ async function purpeter(index) {
 
     await page.evaluate(download).then(data => {
         bigArray.push(data)
-        console.log(bigArray);
-        fs.writeFile('collection.json', JSON.stringify(bigArray), (err) => {
+
+        fs.writeFile(fileName, JSON.stringify(bigArray), (err) => {
             if (err) throw err;
             console.log('Data has been written to output.json');
         });
@@ -179,7 +205,7 @@ async function purpeter(index) {
         }
     }).catch(err => {
         if (err) {
-            fs.writeFile('collection.json', JSON.stringify(bigArray), (err) => {
+            fs.writeFile(fileName, JSON.stringify(bigArray), (err) => {
                 if (err) throw err;
                 console.log('Data has been written to output.json');
             });
@@ -196,10 +222,10 @@ async function purpeter(index) {
 async function Run() {
 
     if (index < links.length) {
-        console.log(links[index], `Index=> ${index}/${links.length}, Percent=> ${index/links.length }%; `);
+        console.log(links[index], `Index=> ${index}/${links.length}, Percent=> ${index / links.length}%; `);
         await purpeter(index).catch(err => {
             if (err) {
-                fs.writeFile('collection.json', JSON.stringify(bigArray), (err) => {
+                fs.writeFile(fileName, JSON.stringify(bigArray), (err) => {
                     if (err) throw err;
                     console.log('Data has been written to output.json');
                 });
@@ -210,7 +236,7 @@ async function Run() {
 
         Run()
     } else {
-        fs.writeFile('collection.json', JSON.stringify(bigArray), (err) => {
+        fs.writeFile(fileName, JSON.stringify(bigArray), (err) => {
             if (err) throw err;
             console.log('Data has been written to output.json');
         });
@@ -226,131 +252,9 @@ async function Run() {
 
 (async () => {
     await Run()
-    fs.writeFile('output.json', JSON.stringify(bigArray), (err) => {
+    fs.writeFile(fileName, JSON.stringify(bigArray), (err) => {
         if (err) throw err;
         console.log('Data has been written to output.json');
     });
 })()
 
-
-
-
-// (async function () {
-//     await Run()
-//     fs.writeFile('output.json', JSON.stringify(bigArray), (err) => {
-//         if (err) throw err;
-//         console.log('Data has been written to output.json');
-//     });
-// })()
-
-// const readline = require('readline');
-
-// const rl = readline.createInterface({
-//     input: process.stdin,
-//     output: process.stdout
-// });
-
-// let numbers = [];
-
-// const askQuestion = async () => {
-//     rl.question('Lütfen bir sayı girin (çıkmak için "exit" yazın): ', async (answer) => {
-//         if (answer.toLowerCase() === 'exit') {
-//             console.log('Giriş işlemi sonlandırıldı.');
-//             fs.writeFile('output.json', JSON.stringify(bigArray), (err) => {
-//                 if (err) throw err;
-//                 console.log('Data has been written to output.json');
-//             });
-//             rl.close();
-//         } else {
-//             await Run(answer, bigArray)
-//             askQuestion();
-//         }
-//     });
-// };
-
-// askQuestion();
-
-
-[
-    '/sect/178/good/omega/',
-    '/sect/178/good/domashniy_lyuk',
-    '/sect/180/good/kompakt_layt/',
-    '/sect/176/good/baron/',
-    '/sect/180/good/kadet_kombi/',
-    '/sect/180/good/yunker/',
-    '/sect/177/good/renessans_gold/',
-    '/sect/177/good/bilyardnyy_stol_leo/',
-    '/sect/180/good/domashniy/',
-    '/sect/178/good/sibir/',
-    '/sect/180/good/kompakt_layt_shpon/', "",
-    '/sect/178/good/modern_pro/',
-    '/sect/177/good/imperator/',
-    '/sect/177/good/liverpul_ekzotik/',
-    '/sect/176/good/liverpul/',
-    '/sect/176/good/liverpul_eko/',
-    '/sect/176/good/versal/',
-    '/sect/176/good/high_style/',
-    '/sect/180/good/kadet/',
-    '/sect/178/good/loft/',
-    '/sect/176/good/high_tech/',
-    '/sect/176/good/bristol/',
-    '/sect/176/good/victory/',
-    '/sect/176/good/fusion/',
-    '/sect/176/good/techno_/',
-    '/sect/176/good/high_style_lux/',
-    '/sect/177/good/renessans_granzh_/',
-    '/sect/177/good/ampir/',
-    '/sect/177/good/drakon_granzh/',
-    '/sect/177/good/morskoy/',
-    '/sect/177/good/neapol/',
-    '/sect/177/good/premer/',
-    '/sect/177/good/dragon/',
-    '/sect/177/good/renessans/',
-    '/sect/177/good/grossmeyster/',
-    '/sect/177/good/motsart/',
-    '/sect/177/good/leo_ii/',
-    '/sect/177/good/imperator_gold/',
-    '/sect/177/good/okhota/',
-    '/sect/177/good/venetsiya_lyuks/',
-    '/sect/177/good/renessans_layt_gold/',
-    '/sect/177/good/imperator_lyuks/',
-    '/sect/177/good/prezident_silver/',
-    '/sect/177/good/veneciya/',
-    '/sect/177/good/liverpool_lux/',
-    '/sect/177/good/liverpul_krakle/',
-    '/sect/177/good/baron_lyuks/',
-    '/sect/174/good/chempion_klab/',
-    '/sect/174/good/liverpul_praym_snuker/',
-    '/sect/174/good/liverpul_klab_praym/',
-    '/sect/174/good/prezident/',
-    '/sect/174/good/prezident_praym/',
-    '/sect/174/good/prezident3/',
-    '/sect/174/good/prezident_iii_praym/',
-    '/sect/176/good/klassik/',
-    '/sect/176/good/arsenal/',
-    '/sect/176/good/arsenal_ii/',
-    '/sect/176/good/baron_ii/',
-    '/sect/176/good/liverpul_iii/',
-    '/sect/176/good/oksford/',
-    '/sect/176/good/turnirnii2/',
-    '/sect/176/good/turnirnii/',
-    '/sect/176/good/liverpoolclub/',
-    '/sect/176/good/prezident_layt/',
-    '/sect/176/good/ricar/',
-    '/sect/176/good/worldmasters/',
-    '/sect/178/good/loft_shpon/',
-    '/sect/178/good/dilerskiy_iii/',
-    '/sect/178/good/modernlux/',
-    '/sect/178/good/domashniy_lyuks_iii/',
-    '/sect/178/good/praga/',
-    '/sect/178/good/olimp/',
-    '/sect/178/good/olimp_lyuks/',
-    '/sect/178/good/gollivud/',
-    '/sect/178/good/shervud/',
-    '/sect/178/good/elefant/',
-    '/sect/180/good/nastolnyy/',
-    '/sect/180/good/nastolniy/',
-    '/sect/180/good/trainer-2/',
-    '/sect/180/good/modern_/',
-    '/sect/180/good/virtuoz/'
-]

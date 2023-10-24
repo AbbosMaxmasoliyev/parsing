@@ -76,7 +76,7 @@ async function purpeter(index) {
 
         if (document.getElementById("tab-description")) {
             let description = document.getElementById("tab-description")
-            data["description"] = Array.from(description.children[0].children).map(item => item.textContent)
+            data["description"] = description.innerText
         }
 
 
@@ -166,6 +166,10 @@ async function purpeter(index) {
         })
     }).then(data => {
         bigArray.push(data)
+        // fs.writeFile('output.json', JSON.stringify(bigArray), (err) => {
+        //     if (err) throw err;
+        //     console.log('Data has been written to output.json');
+        // });
         if (bigArray[0]) {
             console.log("ishlayapti");
         }
@@ -185,6 +189,8 @@ async function purpeter(index) {
 }
 
 
+
+
 async function Run() {
 
     if (index < links.length) {
@@ -202,6 +208,10 @@ async function Run() {
 
         Run()
     } else {
+        fs.writeFile('output.json', JSON.stringify(bigArray), (err) => {
+            if (err) throw err;
+            console.log('Data has been written to output.json');
+        });
     }
 
 
